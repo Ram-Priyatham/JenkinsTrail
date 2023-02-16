@@ -1,9 +1,9 @@
 pipeline {
   agent any
   stages {
-    stage('dev') {
+    stage('hello') {
       steps {
-        sh 'go test ./...'
+        sh 'echo "KRP Here"'
       }
     }
 
