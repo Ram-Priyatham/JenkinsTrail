@@ -1,3 +1,3 @@
 def call(){
-  echo Ram Priyatham Kolisetty
+  sh "echo Ram Priyatham Kolisetty"
 }
