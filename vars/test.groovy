@@ -1,3 +1,3 @@
-def name(){
+def call(){
   echo Ram Priyatham Kolisetty
 }
